@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JulianCBR
+- 👀 I’m interested in HTML, CSS, JavaScript, TypeScript and React.js
+- 🌱 I’m currently learning JavaScript and TypeScript
+- 💞️ I’m looking to collaborate on in companies
